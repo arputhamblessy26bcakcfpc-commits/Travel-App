@@ -72,7 +72,7 @@ Booking Success
 
 ## 📷 Project Preview
 
-Travel Booking App UI designed in Figma.
+Travel Booking App designed in Figma.
 
 ---
 
