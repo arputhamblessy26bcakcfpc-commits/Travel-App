@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This is a *Travel Booking App UI Design* created using *Figma*. The application provides a simple and attractive interface for users to book travel destinations. It includes destination selection, booking details, payment, and booking confirmation screens.
+This is a *Travel Booking App UI Design* created using *Figma*. The application provides a simple and attractive interface for users to book travel destinations. It includes destination selection and booking details.
 
 ---
 
