@@ -88,7 +88,7 @@ Travel Booking App designed in Figma.
 
 **Course:** BCA
 
-**College:**Kamaraj College
+**College:** Kamaraj College
 
 ---
 
